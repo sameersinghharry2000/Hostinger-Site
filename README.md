@@ -1,1 +1,1 @@
-# Hostinger-Site
+# Hostinger-Clone
